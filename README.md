@@ -1,2 +1,2 @@
-# UFV_Visualizaci-n
+# UFV_Visualizacion
 Ejercicios Visualización 4º Ing.Matemática UFV
